@@ -1,0 +1,2 @@
+This is my first program.
+I am learning about git for the first file.
